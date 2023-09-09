@@ -2,3 +2,8 @@
 ################
 !gradle/wrapper/gradle-wrapper.jar
 .gradle
+
+# IntelliJ files
+################
+.idea
+*.iml
