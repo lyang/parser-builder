@@ -1,0 +1,4 @@
+# Gradle Files #
+################
+!gradle/wrapper/gradle-wrapper.jar
+.gradle
